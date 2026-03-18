@@ -1,5 +1,4 @@
-# Exp.No:30  
-## COUNTER CLASS
+# Exp.No:6B-COUNTER CLASS
 
 ---
 
