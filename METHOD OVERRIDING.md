@@ -1,5 +1,4 @@
-# Exp.No:26  
-## Method Overriding
+# Exp.No:6D-Method Overriding
 
 ---
 
