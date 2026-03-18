@@ -1,5 +1,4 @@
-# Exp.No:29  
-## Encapsulation
+# Exp.No:6C-Encapsulation
 
 ---
 
